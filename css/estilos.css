@@ -1,0 +1,39 @@
+
+
+a{
+	outline: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #CEE3F6;
+	
+	
+}
+
+
+.contenedor {
+	max-width: 200px;
+	width: 100%;
+	margin: auto;
+	background: #CEE3F6;
+	padding: 10px;
+
+}
+
+
+a {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+	color: #000;
+	}
+
+a img{
+	margin-right: 15px;
+	width: 50px;
+
+}
